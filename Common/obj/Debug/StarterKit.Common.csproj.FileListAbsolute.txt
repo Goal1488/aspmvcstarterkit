@@ -9,3 +9,14 @@ C:\Users\PC\Source\Repos\fuck-this-number\FuckThisNumber\Common\obj\Debug\Starte
 C:\Users\PC\Source\Repos\fuck-this-number\FuckThisNumber\Common\obj\Debug\StarterKit.Common.csproj.CoreCompileInputs.cache
 C:\Users\PC\Source\Repos\fuck-this-number\FuckThisNumber\Common\obj\Debug\Common.dll
 C:\Users\PC\Source\Repos\fuck-this-number\FuckThisNumber\Common\obj\Debug\Common.pdb
+C:\Users\PC\Source\Repos\aspmvcstarterkit\Common\bin\Debug\Common.dll
+C:\Users\PC\Source\Repos\aspmvcstarterkit\Common\bin\Debug\Common.pdb
+C:\Users\PC\Source\Repos\aspmvcstarterkit\Common\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\PC\Source\Repos\aspmvcstarterkit\Common\bin\Debug\SimpleInjector.dll
+C:\Users\PC\Source\Repos\aspmvcstarterkit\Common\bin\Debug\SimpleInjector.Integration.Web.dll
+C:\Users\PC\Source\Repos\aspmvcstarterkit\Common\bin\Debug\SimpleInjector.xml
+C:\Users\PC\Source\Repos\aspmvcstarterkit\Common\bin\Debug\SimpleInjector.Integration.Web.xml
+C:\Users\PC\Source\Repos\aspmvcstarterkit\Common\obj\Debug\StarterKit.Common.csprojResolveAssemblyReference.cache
+C:\Users\PC\Source\Repos\aspmvcstarterkit\Common\obj\Debug\StarterKit.Common.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\aspmvcstarterkit\Common\obj\Debug\Common.dll
+C:\Users\PC\Source\Repos\aspmvcstarterkit\Common\obj\Debug\Common.pdb

@@ -9,3 +9,14 @@ C:\Users\PC\Source\Repos\fuck-this-number\FuckThisNumber\Models\obj\Debug\Starte
 C:\Users\PC\Source\Repos\fuck-this-number\FuckThisNumber\Models\obj\Debug\StarterKit.Models.csproj.CoreCompileInputs.cache
 C:\Users\PC\Source\Repos\fuck-this-number\FuckThisNumber\Models\obj\Debug\Models.dll
 C:\Users\PC\Source\Repos\fuck-this-number\FuckThisNumber\Models\obj\Debug\Models.pdb
+C:\Users\PC\Source\Repos\aspmvcstarterkit\Models\bin\Debug\Models.dll
+C:\Users\PC\Source\Repos\aspmvcstarterkit\Models\bin\Debug\Models.pdb
+C:\Users\PC\Source\Repos\aspmvcstarterkit\Models\bin\Debug\FuckThisNumber.Interfaces.dll
+C:\Users\PC\Source\Repos\aspmvcstarterkit\Models\bin\Debug\EntityFramework.dll
+C:\Users\PC\Source\Repos\aspmvcstarterkit\Models\bin\Debug\FuckThisNumber.Interfaces.pdb
+C:\Users\PC\Source\Repos\aspmvcstarterkit\Models\bin\Debug\FuckThisNumber.Interfaces.dll.config
+C:\Users\PC\Source\Repos\aspmvcstarterkit\Models\bin\Debug\EntityFramework.xml
+C:\Users\PC\Source\Repos\aspmvcstarterkit\Models\obj\Debug\StarterKit.Models.csprojResolveAssemblyReference.cache
+C:\Users\PC\Source\Repos\aspmvcstarterkit\Models\obj\Debug\StarterKit.Models.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\aspmvcstarterkit\Models\obj\Debug\Models.dll
+C:\Users\PC\Source\Repos\aspmvcstarterkit\Models\obj\Debug\Models.pdb

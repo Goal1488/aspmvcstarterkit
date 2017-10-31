@@ -69,7 +69,7 @@
       <Project>{46968F47-AC70-4ECD-9976-70EE06C0B075}</Project>
       <Name>StarterKit.Entities</Name>
     </ProjectReference>
-    <ProjectReference Include="..\FuckThisNumber.Interfaces\StarterKit.Interfaces.csproj">
+    <ProjectReference Include="..\Interfaces\StarterKit.Interfaces.csproj">
       <Project>{D41EC7C8-2A68-4EF4-AE97-CE5E19C364C8}</Project>
       <Name>StarterKit.Interfaces</Name>
     </ProjectReference>

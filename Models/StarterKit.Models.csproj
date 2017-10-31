@@ -54,7 +54,7 @@
     <Compile Include="ViewModels\Authentificate\VerifyCodeViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FuckThisNumber.Interfaces\StarterKit.Interfaces.csproj">
+    <ProjectReference Include="..\Interfaces\StarterKit.Interfaces.csproj">
       <Project>{D41EC7C8-2A68-4EF4-AE97-CE5E19C364C8}</Project>
       <Name>StarterKit.Interfaces</Name>
     </ProjectReference>
