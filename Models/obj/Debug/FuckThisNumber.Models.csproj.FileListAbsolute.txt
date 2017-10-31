@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Models\obj\Debug\FuckThisNumber.Models.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Models\obj\Debug\Models.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Models\obj\Debug\Models.pdb
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Models\bin\Debug\Models.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Models\bin\Debug\Models.pdb
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Models\bin\Debug\FuckThisNumber.Interfaces.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Models\bin\Debug\EntityFramework.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Models\bin\Debug\FuckThisNumber.Interfaces.pdb
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Models\bin\Debug\EntityFramework.xml

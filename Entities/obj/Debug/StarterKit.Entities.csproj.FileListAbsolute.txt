@@ -1,0 +1,15 @@
+C:\Users\PC\Source\Repos\fuck-this-number\FuckThisNumber\Entities\bin\Debug\Entities.dll.config
+C:\Users\PC\Source\Repos\fuck-this-number\FuckThisNumber\Entities\bin\Debug\Entities.dll
+C:\Users\PC\Source\Repos\fuck-this-number\FuckThisNumber\Entities\bin\Debug\Entities.pdb
+C:\Users\PC\Source\Repos\fuck-this-number\FuckThisNumber\Entities\bin\Debug\EntityFramework.dll
+C:\Users\PC\Source\Repos\fuck-this-number\FuckThisNumber\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Source\Repos\fuck-this-number\FuckThisNumber\Entities\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\PC\Source\Repos\fuck-this-number\FuckThisNumber\Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\PC\Source\Repos\fuck-this-number\FuckThisNumber\Entities\bin\Debug\EntityFramework.xml
+C:\Users\PC\Source\Repos\fuck-this-number\FuckThisNumber\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Source\Repos\fuck-this-number\FuckThisNumber\Entities\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\PC\Source\Repos\fuck-this-number\FuckThisNumber\Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\PC\Source\Repos\fuck-this-number\FuckThisNumber\Entities\obj\Debug\StarterKit.Entities.csprojResolveAssemblyReference.cache
+C:\Users\PC\Source\Repos\fuck-this-number\FuckThisNumber\Entities\obj\Debug\StarterKit.Entities.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\fuck-this-number\FuckThisNumber\Entities\obj\Debug\Entities.dll
+C:\Users\PC\Source\Repos\fuck-this-number\FuckThisNumber\Entities\obj\Debug\Entities.pdb

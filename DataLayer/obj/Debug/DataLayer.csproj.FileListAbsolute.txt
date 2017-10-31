@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\DataLayer\bin\Debug\DataLayer.dll.config
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\DataLayer\bin\Debug\DataLayer.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\DataLayer\bin\Debug\DataLayer.pdb
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\DataLayer\bin\Debug\EntityFramework.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\DataLayer\bin\Debug\EntityFramework.xml
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\DataLayer\obj\Debug\DataLayer.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\DataLayer\obj\Debug\DataLayer.pdb

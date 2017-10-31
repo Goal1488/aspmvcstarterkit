@@ -1,0 +1,4 @@
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Common\bin\Debug\Common.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Common\bin\Debug\Common.pdb
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Common\obj\Debug\Common.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Common\obj\Debug\Common.pdb

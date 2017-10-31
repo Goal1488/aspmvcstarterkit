@@ -1,0 +1,10 @@
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Common\bin\Debug\Common.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Common\bin\Debug\Common.pdb
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Common\obj\Debug\Common.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Common\obj\Debug\Common.pdb
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Common\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Common\bin\Debug\SimpleInjector.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Common\bin\Debug\SimpleInjector.Integration.Web.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Common\bin\Debug\SimpleInjector.xml
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Common\bin\Debug\SimpleInjector.Integration.Web.xml
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Common\obj\Debug\FuckThisNumber.Common.csprojResolveAssemblyReference.cache

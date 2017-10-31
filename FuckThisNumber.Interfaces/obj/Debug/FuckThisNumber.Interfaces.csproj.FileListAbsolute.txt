@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\FuckThisNumber.Interfaces\bin\Debug\FuckThisNumber.Interfaces.dll.config
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\FuckThisNumber.Interfaces\bin\Debug\FuckThisNumber.Interfaces.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\FuckThisNumber.Interfaces\bin\Debug\FuckThisNumber.Interfaces.pdb
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\FuckThisNumber.Interfaces\bin\Debug\EntityFramework.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\FuckThisNumber.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\FuckThisNumber.Interfaces\bin\Debug\EntityFramework.xml
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\FuckThisNumber.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\FuckThisNumber.Interfaces\obj\Debug\FuckThisNumber.Interfaces.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\FuckThisNumber.Interfaces\obj\Debug\FuckThisNumber.Interfaces.pdb

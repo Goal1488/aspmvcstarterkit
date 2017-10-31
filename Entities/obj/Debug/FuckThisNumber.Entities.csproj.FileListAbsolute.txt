@@ -1,0 +1,13 @@
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Entities\bin\Debug\Entities.dll.config
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Entities\bin\Debug\Entities.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Entities\bin\Debug\Entities.pdb
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Entities\bin\Debug\EntityFramework.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Entities\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Entities\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Entities\bin\Debug\EntityFramework.xml
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Entities\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Entities\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Entities\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Entities\obj\Debug\Entities.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Entities\obj\Debug\Entities.pdb

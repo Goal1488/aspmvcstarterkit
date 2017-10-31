@@ -1,0 +1,4 @@
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Business\bin\Debug\Business.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Business\bin\Debug\Business.pdb
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Business\obj\Debug\Business.dll
+c:\users\pc\documents\visual studio 2015\Projects\FuckThisNumber\Business\obj\Debug\Business.pdb
